@@ -1,14 +1,14 @@
 import { ISiteConfig } from "@/types"
 
 export const siteConfig: ISiteConfig = {
-  name: "Notionfol.io", // shown in the header
+  name: "Iyed.dev", // shown in the header
   description:
-    "Make your own portfolio + Notion-powered blog in minutes with Next.js and Vercel.",
+"I'm a passionate full-stack developer working from Sousse,Tunisia.",
   links: {
     // order is same order in the footer (when link added it's shown in the footer)
-    mail: "hello@mehdibha.co",
-    linkedin: "https://linkedin.com/mehdibha",
-    github: "https://github.com/mehdibha",
+    mail: "hello@iyed.dev",
+    linkedin: "https://www.linkedin.com/in/mohamed-iyed-mansour-532511213/",
+    github: "https://github.com/imansour12/",
     twitter: "https://twitter.com/mehdibha_",
     instagram: "https://www.instagram.com/mehdibha.com",
     codepen: "https://codepen.io/mehdi-ben-hadj-ali",
@@ -227,7 +227,7 @@ export const siteConfig: ISiteConfig = {
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     callToAction: {
       label: "Say hello",
-      href: "mailto:hello@mehdibha.co",
+      href: "mailto:hello@iyed.dev",
     },
   },
   courses: [
