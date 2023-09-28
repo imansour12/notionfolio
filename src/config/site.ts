@@ -25,10 +25,7 @@ export const siteConfig: ISiteConfig = {
   },
   heroBanner: {
     title: {
-      1: [
-        { text: "Hey there. I'm " },
-        { text: "Iyed Mansour", highlighted: true },
-      ],
+      1: [{ text: "Hey there. I'm " }, { text: "Iyed", highlighted: true }],
       2: [],
     },
     subtitle:
